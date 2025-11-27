@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+<g transform="translate(10,8)">
+<!-- cone -->
+<path d="M50 8 L18 88 L82 88 Z" fill="#FFB74D" stroke="#E08A00" stroke-width="2"/>
+<!-- stripes -->
+<path d="M50 18 L27 78" stroke="#FF7043" stroke-width="6" stroke-linecap="round"/>
+<path d="M50 22 L34 76" stroke="#F06292" stroke-width="6" stroke-linecap="round"/>
+<path d="M50 28 L41 74" stroke="#4DD0E1" stroke-width="6" stroke-linecap="round"/>
+<!-- pompom -->
+<circle cx="50" cy="5" r="8" fill="#FF4081"/>
+<!-- band -->
+<rect x="18" y="80" width="64" height="8" rx="4" fill="#8D6E63"/>
+</g>
+</svg>
